@@ -1,2 +1,2 @@
-# IITM_MLT-Machine_Learning_from_scratch
+# IITM_MLT-Machine_Learning_Technique
 Here, You will get to learn about in depth Machine_learning Supervised and Unsupervised from the scratch.....
