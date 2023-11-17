@@ -4,3 +4,5 @@ Here, You will get to learn about in depth Machine_learning Supervised and Unsup
 ## week-2 Kernal PCA
 ## week-3 Clustering
 ## week-4 Estimation
+## week-5 Linear Regression
+## week-6 Ridge Regression
